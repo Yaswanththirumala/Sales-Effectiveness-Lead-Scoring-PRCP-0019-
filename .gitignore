@@ -1,0 +1,4 @@
+*.csv
+*.pkl
+outputs/
+.ipynb_checkpoints/
